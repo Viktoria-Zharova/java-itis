@@ -1,2 +1,7 @@
+public class MyClass {
+    public static void main(String args[]) {
+ 
 
-ert
+      System.out.println("hello world");
+    }
+}
